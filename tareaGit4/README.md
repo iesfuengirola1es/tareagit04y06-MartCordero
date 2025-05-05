@@ -12,6 +12,7 @@
 - Aceptar la invitación mutua.
 
 
+
 ## Fork, Clone y Modificaciones
 
 1. Tu compañero forkea tu repositorio desde GitHub usando el botón **Fork**.
