@@ -40,3 +40,5 @@ Si has clonado sin especificar el tag, entra al directorio clonado:
 
 ![10](https://github.com/user-attachments/assets/c2ac0763-62fb-45f2-a8db-248e4fe638a4)
 
+- Realiza un cambio simple en el código Java, como añadir un comentario. Por ejemplo, en `calculadora.java`, podrías añadir `//Comentario añadido por mí`.
+
