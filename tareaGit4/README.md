@@ -64,11 +64,11 @@ Si Git lanza el error indicando que no puede identificar al autor, configurar no
 
 ## 2. Crear un Pull Request (Parte en Parejas)
 
-Ve a GitHub, al repositorio de tu compañero. Selecciona la rama mi_modificacion y crea un pull request hacia la rama principal del repositorio de tu compañero (por ejemplo, main).
+Vamos a GitHub, al repositorio del compañero. Seleccionamos la rama mi_modificacion y creamos un pull request hacia la rama principal del repositorio del compañero (por ejemplo, main).
 
 ![17](https://github.com/user-attachments/assets/58341dc9-0975-46b5-814d-4c5773818b78)
 
-**Configura el Pull Request:**
+**Configurar el Pull Request:**
 
 **Título:** GitHub sugerirá un título basado en el mensaje de tu commit (por ejemplo, "Añadiendo comentario al código Java"). Puedes dejarlo o escribir algo más descriptivo, como "Añadido comentario en calculadora.java".
 
@@ -90,13 +90,13 @@ Hacer clic en Create pull request para enviarlo. El compañero podrá revisarlo,
 
 **1. Acceder a Tu Repositorio Local**
 
-Asegúrate de estar en el directorio de tu propio repositorio local (no el fork o clon del repositorio de tu compañero).
+Nos aseguramos de estar en el directorio de tu propio repositorio local (no el fork o clon del repositorio de tu compañero).
 
 ![23](https://github.com/user-attachments/assets/ab3a6f0b-51fe-4b5e-bc63-6fe36b8f576f)
 
 **2. Hacer un Commit Adicional**
 
-Realiza un cambio simple en tu repositorio, como modificar un archivo Java existente o añadir uno nuevo. Por ejemplo, si tienes un archivo calculadora.java, añade un comentario o una línea:
+Realizamos un cambio simple en tu repositorio, como modificar un archivo Java existente o añadir uno nuevo. Por ejemplo, si tienes un archivo calculadora.java, añade un comentario o una línea:
 
 ![24](https://github.com/user-attachments/assets/eebc658e-b3ab-452c-a96a-01fdea011339)
 
@@ -131,7 +131,8 @@ Sube el tag al repositorio remoto:
 
 **4. Clonar el Repositorio desde el Tag v1.0**
 
-El ejercicio pide clonar el repositorio desde el tag v1.0 usando un clonado superficial (--depth 1), lo que descarga solo el commit asociado al tag, ahorrando espacio y simulando un despliegue en producción.
+- El ejercicio pide clonar el repositorio desde el tag v1.0 usando un clonado superficial (--depth 1), lo que descarga solo el commit asociado al tag, ahorrando espacio y simulando un despliegue en producción.
+
 Sal del directorio actual para clonar en una nueva ubicación:
 
 ![31](https://github.com/user-attachments/assets/0091db06-5ddd-4e66-9680-5d9a03606d0a)
