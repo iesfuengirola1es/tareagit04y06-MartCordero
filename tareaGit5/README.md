@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a6d4045-78a5-4d57-9013-044307132ddb)# Tarea Git 5
+# Tarea Git 5
 ## 1. Preparación de Código
 
 - **Primero crearemos un archivo .java en GitHub:**
