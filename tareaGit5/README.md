@@ -1,4 +1,4 @@
-# Tarea Git 5
+![image](https://github.com/user-attachments/assets/0a6d4045-78a5-4d57-9013-044307132ddb)# Tarea Git 5
 ## 1. Preparación de Código
 
 - **Primero crearemos un archivo .java en GitHub:**
@@ -75,3 +75,20 @@ Añade y haz commit:
 
 **(No nos podemos olvidar de la palabra clave #2 al hacer commit)**
 
+![15](https://github.com/user-attachments/assets/c0d4fc98-8ade-4473-8afb-90498d62142d)
+
+**Subir los Commits**
+
+- GitHub cerrará automáticamente los issues #1 y #2 al detectar las palabras clave (Closes #1, Resolves #2) en los mensajes de commit, siempre que los commits estén en la rama predeterminada (main).
+
+**Verificar que los Issues Están Cerrados**
+
+Regresa a la pestaña Issues en GitHub.
+
+![16](https://github.com/user-attachments/assets/36384ae6-9831-4127-ba71-e22ea41281b8)
+
+Confirma que los issues #1 y #2 están cerrados. Cada issue debería tener un comentario automático indicando que fue cerrado por un commit.
+
+![17](https://github.com/user-attachments/assets/7615491a-fa69-4f9c-9d7f-d5790c919671)
+
+![18](https://github.com/user-attachments/assets/e4e304f9-e638-4a42-adbf-6996b8bb6bb0)
