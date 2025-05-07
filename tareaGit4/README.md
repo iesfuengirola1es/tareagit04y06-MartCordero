@@ -49,3 +49,7 @@ Si has clonado sin especificar el tag, entra al directorio clonado:
 ![12](https://github.com/user-attachments/assets/595ae3ba-6980-41d0-af2c-d29508181b6b)
 
 ![13](https://github.com/user-attachments/assets/2f08c90f-e42e-4a21-a04a-600411102c07)
+
+- Ahora subiremos la rama al repositorio remoto.
+
+![14](https://github.com/user-attachments/assets/a49e3d00-fb12-4c9f-a7fc-9c4d9e76797c)
