@@ -44,3 +44,8 @@ Si has clonado sin especificar el tag, entra al directorio clonado:
 
 ![11](https://github.com/user-attachments/assets/dafeae85-ed18-422f-96d5-299a27a3cd86)
 
+- Añade los cambios con `git add .`, haz commit con `git commit -m "Añadiendo comentario al código"` y súbelos con `git push origin mi_modificacion`.
+
+![12](https://github.com/user-attachments/assets/595ae3ba-6980-41d0-af2c-d29508181b6b)
+
+![13](https://github.com/user-attachments/assets/2f08c90f-e42e-4a21-a04a-600411102c07)
